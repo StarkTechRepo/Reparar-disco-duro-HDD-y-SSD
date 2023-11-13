@@ -176,6 +176,52 @@ En términos de uso, los SSD son una mejor opción para aplicaciones que requier
 
 ---
 
+# Reparar Disco Duro con Hiren's Boot y HDAT2
+
+## Hiren's Boot
+
+[Hiren's Boot](https://www.hirensbootcd.org/) es una utilidad todo en uno que proporciona diversas herramientas para el diagnóstico, reparación y recuperación de sistemas informáticos. Es conocido por su amplia gama de utilidades, incluyendo programas antivirus, herramientas de particionado, y utilidades de diagnóstico de hardware.
+
+## HDAT2
+
+[HDAT2](https://www.hdat2.com/) es una herramienta de prueba y reparación de discos duros que opera a nivel de bajo nivel. Permite realizar diversas operaciones, como escanear y reparar sectores defectuosos, verificar atributos SMART y realizar pruebas extensas en dispositivos de almacenamiento.
+
+1. **Inicia desde Hiren's Boot:**
+   - Ve al [sitio oficial de Hiren's Boot](https://www.hirensbootcd.org/) y descarga la última versión.
+   - Graba la imagen ISO en un medio de arranque, como un USB o un CD.
+
+2. **Navega a la ubicación de HDAT2:**
+   - Después de arrancar desde Hiren's Boot, accede al menú principal y selecciona "Dos Programs," luego "Dos Settings" y elige la primera opción.
+
+3. **Ejecuta HDAT2:**
+   - Navega a la ruta donde tienes instalado HDAT2 y ejecuta el programa.
+
+4. **Selecciona el Dispositivo a Reparar:**
+   - HDAT2 mostrará los dispositivos conectados. Selecciona el dispositivo que deseas reparar.
+
+5. **Accede a las SMART Attributes:**
+   - Elige la opción "SMART Attributes" para ver más detalles sobre los atributos del disco.
+
+6. **Vuelve al Menú Principal:**
+   - Regresa al menú principal de HDAT2.
+
+7. **Accede al Menú de Pruebas de Dispositivos:**
+   - Selecciona la primera opción, "Device Tests Menu."
+
+8. **Detecta y Repara Sectores Dañados:**
+   - Elige la segunda opción, "Detect and Fix Bad Sectors Menu."
+
+9. **Selecciona la Opción para Reparar con Verificación:**
+   - Escoge la primera opción, "Fix and Verify/Write/Verify."
+   - La reparación del disco duro comenzará automáticamente.
+
+10. **Formateo a Bajo Nivel (Importante):**
+   - Después de la reparación, sigue la guía para realizar un [formateo a bajo nivel](https://github.com/StarkTechRepo/Reparar-disco-duro-HDD-y-SSD#formatea-el-disco-duro) antes de volver a utilizar el disco.
+
+Este procedimiento utiliza Hiren's Boot y HDAT2 para diagnosticar y reparar sectores dañados en el disco duro. Asegúrate de seguir cuidadosamente cada paso y ten en cuenta que trabajar con herramientas de bajo nivel como estas conlleva riesgos, por lo que se recomienda realizar copias de seguridad antes de proceder.
+
+---
+
 # Licencia
 Este proyecto está bajo la licencia [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Puedes compartir, adaptar y utilizar estos archivos siempre que des el crédito correspondiente al autor original.
 
