@@ -63,9 +63,11 @@ Una comprobación de errores es una buena manera de empezar a solucionar problem
 
 ## Programa de reparación de discos duros
 
-- [Victoria](https://www.filehorse.com/es/descargar-victoria-ssd-hdd/)
-- [HDD Regeneration](https://www.dposoft.net/)
-- [EaseUS Data Recovery Wizard](https://es.easeus.com/data-recovery-software/)
+- [Victoria](https://www.filehorse.com/es/descargar-victoria-ssd-hdd/): Victoria es una herramienta de diagnóstico y reparación de discos duros que ofrece funcionalidades específicas para SSD y HDD. Permite realizar pruebas detalladas y reparaciones en ambos tipos de discos. 
+
+- [HDD Regeneration](https://www.dposoft.net/): HDD Regeneration es una potente herramienta especializada en la recuperación y reparación de sectores defectuosos en discos duros. Ofrece capacidades avanzadas para restaurar áreas dañadas y mejorar el rendimiento general del disco.
+
+- [EaseUS Data Recovery Wizard](https://es.easeus.com/data-recovery-software/): EaseUS Data Recovery Wizard es un software versátil de recuperación de datos. Aunque no es específicamente una herramienta de reparación de discos duros, puede ayudar en la recuperación de datos de discos dañados. Ofrece funciones de escaneo profundo para identificar y recuperar archivos perdidos.
 
 Estos programas pueden ayudarte a recuperar datos de un disco duro dañado. Sin embargo, es importante tener en cuenta que, si el disco duro está gravemente dañado, es posible que no puedas recuperar todos los datos.
 
@@ -77,9 +79,11 @@ Si todos los demás métodos han fallado, es posible que tengas que formatear el
 
 El formateo profundo, también conocido como formateo de bajo nivel, es un proceso que borra todos los datos de un disco duro y reconfigura su estructura física. Esto puede ser útil para reparar un disco duro dañado, o para borrar datos confidenciales de manera segura.
 
-- [HDD Low Level Format Tool](https://hddguru.com/software/HDD-LLF-Low-Level-Format-Tool/)
-- [Diskpart](https://learn.microsoft.com/es-es/windows-server/administration/windows-commands/diskpart)
+## Herramientas de Análisis y Monitoreo
 
+- [HDD Low Level Format Tool](https://hddguru.com/software/HDD-LLF-Low-Level-Format-Tool/): HDD Low Level Format Tool es una aplicación especializada para realizar formateos de bajo nivel en discos duros. Es útil para borrar completamente los datos y configurar la estructura física del disco.
+
+- [Diskpart](https://learn.microsoft.com/es-es/windows-server/administration/windows-commands/diskpart): Diskpart es una herramienta de línea de comandos de Windows que proporciona funcionalidades para la administración de discos. Puede utilizarse para realizar diversas operaciones, como la creación de particiones y el formateo de discos.
 ## Consejos para Evitar Daños en tu Disco Duro
 
 - Evita que tu disco duro se caiga o se golpee.
