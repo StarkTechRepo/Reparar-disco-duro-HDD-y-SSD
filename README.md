@@ -216,7 +216,7 @@ En términos de uso, los SSD son una mejor opción para aplicaciones que requier
    - La reparación del disco duro comenzará automáticamente.
 
 10. **Formateo a Bajo Nivel (Importante):**
-   - Después de la reparación, sigue la guía para realizar un [formateo a bajo nivel](https://github.com/StarkTechRepo/Reparar-disco-duro-HDD-y-SSD#formatea-el-disco-duro) antes de volver a utilizar el disco.
+   - Después de la reparación, sigue la guía para realizar un [formateo a bajo nivel](#formatea-el-disco-duro) antes de volver a utilizar el disco.
 
 Este procedimiento utiliza Hiren's Boot y HDAT2 para diagnosticar y reparar sectores dañados en el disco duro. Asegúrate de seguir cuidadosamente cada paso y ten en cuenta que trabajar con herramientas de bajo nivel como estas conlleva riesgos, por lo que se recomienda realizar copias de seguridad antes de proceder.
 
