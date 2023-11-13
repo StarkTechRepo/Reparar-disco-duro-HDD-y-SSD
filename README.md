@@ -27,7 +27,7 @@ Lo primero que debes hacer es identificar el problema con tu disco duro. ¿No ar
 
 Una comprobación de errores es una buena manera de empezar a solucionar problemas con un disco duro. En Windows, puedes ejecutar una comprobación de errores desde el símbolo del sistema. Para ello, abre el símbolo del sistema como administrador y escribe el siguiente comando:
 
-- Habilitar TRIM (solo SSD)
+- habilitar TRIM puede mejorar el rendimiento de la SSD al permitirle liberar los bloques de datos que ya no se utilizan.
 `fsutil behavior set disabledeletenotify 0`
 
 - Verificar y reparar los archivos del sistema.
