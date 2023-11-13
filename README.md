@@ -1,5 +1,5 @@
 
-# Cómo reparar un disco duro dañado (HDD y SSD)
+# Reparar un disco duro dañado (HDD y SSD)
 
 ![imagen](foto.jpg)
 
