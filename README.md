@@ -23,7 +23,7 @@ Los SSD también son menos susceptibles a sufrir daños lógicos que los HDD. Es
 
 Lo primero que debes hacer es identificar el problema con tu disco duro. ¿No arranca tu ordenador? ¿Se bloquea? ¿No puedes acceder a los datos? Una vez que hayas identificado el problema, podrás empezar a buscar una solución.
 
-## Herramientas de Análisis y Monitoreo
+### Herramientas de Análisis y Monitoreo
 
 - [CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/): Esta herramienta gratuita puede realizar pruebas de rendimiento en discos duros y SSD.
 - [HD Tune](https://www.hdtune.com/): Esta herramienta gratuita puede realizar una variedad de pruebas de rendimiento y diagnóstico en discos duros y SSD.
