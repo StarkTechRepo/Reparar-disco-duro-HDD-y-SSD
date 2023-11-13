@@ -3,7 +3,7 @@
 
 ![imagen](foto.jpg)
 
-Un disco duro dañado puede ser una experiencia frustrante. Los datos que contiene pueden ser valiosos, y puede ser difícil saber qué hacer para repararlo. En este artículo, te mostraremos cómo reparar un disco duro dañado, tanto interno como externo. (solo SDD)
+Un disco duro dañado puede ser una experiencia frustrante. Los datos que contiene pueden ser valiosos, y puede ser difícil saber qué hacer para repararlo. 
 
 ## Diferencias entre un HDD y un SSD en cuanto a la probabilidad de rotura y reparación
 
