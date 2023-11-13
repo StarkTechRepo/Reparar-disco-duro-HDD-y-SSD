@@ -23,6 +23,12 @@ Los SSD también son menos susceptibles a sufrir daños lógicos que los HDD. Es
 
 Lo primero que debes hacer es identificar el problema con tu disco duro. ¿No arranca tu ordenador? ¿Se bloquea? ¿No puedes acceder a los datos? Una vez que hayas identificado el problema, podrás empezar a buscar una solución.
 
+## Herramientas de Análisis y Monitoreo
+
+- [CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/): Esta herramienta gratuita puede realizar pruebas de rendimiento en discos duros y SSD.
+- [HD Tune](https://www.hdtune.com/): Esta herramienta gratuita puede realizar una variedad de pruebas de rendimiento y diagnóstico en discos duros y SSD.
+- [ATTO Disk Benchmark](https://www.atto.com/disk-benchmark/): Esta herramienta gratuita puede realizar pruebas de rendimiento en discos duros y SSD.
+
 ## Comprobación de errores
 
 Una comprobación de errores es una buena manera de empezar a solucionar problemas con un disco duro. En Windows, puedes ejecutar una comprobación de errores desde el símbolo del sistema. Para ello, abre el símbolo del sistema como administrador y escribe el siguiente comando:
