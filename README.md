@@ -22,7 +22,7 @@ Un disco duro dañado puede ser una experiencia frustrante. Los datos que contie
     - [Consejos para Evitar Daños en tu Disco Duro](#consejos-para-evitar-da%C3%B1os-en-tu-disco-duro)
     - [Diferencias entre un HDD y un SSD para el uso](#diferencias-entre-un-hdd-y-un-ssd-para-el-uso)
     - [Herramientas de Borrado Seguro](#herramientas-de-borrado-seguro)
-    - [Reparar Disco Duro con Hiren's Boot y HDAT2](##reparar-disco-duro-con-hirens-boot-y-hdat2)
+    - [Reparar Disco Duro con Hiren's Boot y HDAT2](#reparar-disco-duro-con-hirens-boot-y-hdat2)
 2. [Licencia](#licencia)
 3. [Nota importante](#nota-importante)
 
