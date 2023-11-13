@@ -79,11 +79,13 @@ Si todos los demás métodos han fallado, es posible que tengas que formatear el
 
 El formateo profundo, también conocido como formateo de bajo nivel, es un proceso que borra todos los datos de un disco duro y reconfigura su estructura física. Esto puede ser útil para reparar un disco duro dañado, o para borrar datos confidenciales de manera segura.
 
+#### Herramientas para formatear a bajo nivel un disco duro 
+
 - [HDD Low Level Format Tool](https://hddguru.com/software/HDD-LLF-Low-Level-Format-Tool/): HDD Low Level Format Tool es una aplicación especializada para realizar formateos de bajo nivel en discos duros. Es útil para borrar completamente los datos y configurar la estructura física del disco.
 
 - [Diskpart](https://learn.microsoft.com/es-es/windows-server/administration/windows-commands/diskpart): Diskpart es una herramienta de línea de comandos de Windows que proporciona funcionalidades para la administración de discos. Puede utilizarse para realizar diversas operaciones, como la creación de particiones y el formateo de discos.
 
-### Para formatear a bajo nivel un disco duro con Diskpart
+#### Para formatear a bajo nivel un disco duro con Diskpart
 
 1. `diskpart` - Inicia la herramienta Diskpart en la línea de comandos de Windows.
 
