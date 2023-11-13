@@ -1,5 +1,5 @@
 
-# Reparar un disco duro dañado (HDD y SSD)
+# Reparar disco duro dañado (HDD y SSD)
 
 ![imagen](foto.jpg)
 
