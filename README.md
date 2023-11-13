@@ -1,7 +1,7 @@
 
 # Reparar disco duro dañado (HDD y SSD)
 
-![imagen](foto.jpg)
+![imagen](foto.jpeg)
 
 Un disco duro dañado puede ser una experiencia frustrante. Los datos que contiene pueden ser valiosos, y puede ser difícil saber qué hacer para repararlo. 
 
