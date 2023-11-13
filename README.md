@@ -5,6 +5,26 @@
 
 Un disco duro dañado puede ser una experiencia frustrante. Los datos que contiene pueden ser valiosos, y puede ser difícil saber qué hacer para repararlo. 
 
+# Índice
+
+1. [Reparar disco duro dañado (HDD y SSD)](#reparar-disco-duro-da%C3%B1ado-hdd-y-ssd)
+    - [Diferencias entre un HDD y un SSD en cuanto a la probabilidad de rotura y reparación](#diferencias-entre-un-hdd-y-un-ssd-en-cuanto-a-la-probabilidad-de-rotura-y-reparaci%C3%B3n)
+        - [HDD](#hdd)
+        - [SSD](#ssd)
+    - [Identifica el problema](#identifica-el-problema)
+        - [Herramientas de Análisis y Monitoreo](#herramientas-de-an%C3%A1lisis-y-monitoreo)
+    - [Comprobación de errores](#comprobaci%C3%B3n-de-errores)
+    - [Programa de reparación de discos duros](#programa-de-reparaci%C3%B3n-de-discos-duros)
+    - [Formatea el disco duro](#formatea-el-disco-duro)
+        - [Formateo profundo](#formateo-profundo)
+            - [Herramientas para formatear a bajo nivel un disco duro](#herramientas-para-formatear-a-bajo-nivel-un-disco-duro)
+            - [Para formatear a bajo nivel un disco duro con Diskpart](#para-formatear-a-bajo-nivel-un-disco-duro-con-diskpart)
+    - [Consejos para Evitar Daños en tu Disco Duro](#consejos-para-evitar-da%C3%B1os-en-tu-disco-duro)
+    - [Diferencias entre un HDD y un SSD para el uso](#diferencias-entre-un-hdd-y-un-ssd-para-el-uso)
+    - [Herramientas de Borrado Seguro](#herramientas-de-borrado-seguro)
+2. [Licencia](#licencia)
+3. [Nota importante](#nota-importante)
+
 ## Diferencias entre un HDD y un SSD en cuanto a la probabilidad de rotura y reparación
 
 ### HDD
