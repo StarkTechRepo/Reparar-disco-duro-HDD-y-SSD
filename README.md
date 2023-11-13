@@ -25,6 +25,8 @@ Un disco duro dañado puede ser una experiencia frustrante. Los datos que contie
 2. [Licencia](#licencia)
 3. [Nota importante](#nota-importante)
 
+---
+
 ## Diferencias entre un HDD y un SSD en cuanto a la probabilidad de rotura y reparación
 
 ### HDD
@@ -39,6 +41,8 @@ Los SSD no tienen partes móviles, por lo que son más resistentes a daños fís
 
 Los SSD también son menos susceptibles a sufrir daños lógicos que los HDD. Esto se debe a que no tienen partes móviles que puedan verse afectadas por errores en el hardware o por una alimentación eléctrica incorrecta. En la mayoría de los casos, los daños lógicos en un SSD pueden repararse.
 
+---
+
 ## Identifica el problema
 
 Lo primero que debes hacer es identificar el problema con tu disco duro. ¿No arranca tu ordenador? ¿Se bloquea? ¿No puedes acceder a los datos? Una vez que hayas identificado el problema, podrás empezar a buscar una solución.
@@ -48,6 +52,8 @@ Lo primero que debes hacer es identificar el problema con tu disco duro. ¿No ar
 - [CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/): Esta herramienta gratuita puede realizar pruebas de rendimiento en discos duros y SSD.
 - [HD Tune](https://www.hdtune.com/): Esta herramienta gratuita puede realizar una variedad de pruebas de rendimiento y diagnóstico en discos duros y SSD.
 - [ATTO Disk Benchmark](https://www.atto.com/disk-benchmark/): Esta herramienta gratuita puede realizar pruebas de rendimiento en discos duros y SSD.
+
+---
 
 ## Comprobación de errores
 
@@ -81,6 +87,8 @@ Una comprobación de errores es una buena manera de empezar a solucionar problem
 - Habilitar la compresión de ficheros en el disco duro principal
 `compact /CompactOs:always`
 
+---
+
 ## Programa de reparación de discos duros
 
 - [Victoria](https://www.filehorse.com/es/descargar-victoria-ssd-hdd/): Victoria es una herramienta de diagnóstico y reparación de discos duros que ofrece funcionalidades específicas para SSD y HDD. Permite realizar pruebas detalladas y reparaciones en ambos tipos de discos. 
@@ -90,6 +98,8 @@ Una comprobación de errores es una buena manera de empezar a solucionar problem
 - [EaseUS Data Recovery Wizard](https://es.easeus.com/data-recovery-software/): EaseUS Data Recovery Wizard es un software versátil de recuperación de datos. Aunque no es específicamente una herramienta de reparación de discos duros, puede ayudar en la recuperación de datos de discos dañados. Ofrece funciones de escaneo profundo para identificar y recuperar archivos perdidos.
 
 Estos programas pueden ayudarte a recuperar datos de un disco duro dañado. Sin embargo, es importante tener en cuenta que, si el disco duro está gravemente dañado, es posible que no puedas recuperar todos los datos.
+
+---
 
 ## Formatea el disco duro
 
@@ -115,6 +125,8 @@ El formateo profundo, también conocido como formateo de bajo nivel, es un proce
 
 4. `clean all` - Limpia todos los datos en el disco seleccionado a nivel físico. Este comando realiza un formateo a bajo nivel. Ten en cuenta que este proceso eliminará todos los datos en el disco seleccionado de manera irrecuperable. Asegúrate de seleccionar el disco correcto antes de ejecutar este comando.
 
+---
+
 ## Consejos para Evitar Daños en tu Disco Duro
 
 - Evita que tu disco duro se caiga o se golpee.
@@ -123,6 +135,8 @@ El formateo profundo, también conocido como formateo de bajo nivel, es un proce
 - Realiza análisis seguidos, recomendación cada 6 meses si es un disco muy activo, si no cada 3 meses.
 - No formatees seguido, ya que se pierde tamaño de uso al hacerlo.
 - Realiza un formateo cada 6 meses si es un disco muy activo, si no cada 1 año.
+
+---
 
 ## Diferencias entre un HDD y un SSD para el uso
 
@@ -140,6 +154,8 @@ El formateo profundo, también conocido como formateo de bajo nivel, es un proce
 
 En términos de uso, los SSD son una mejor opción para aplicaciones que requieren un rendimiento rápido, como el arranque del sistema operativo, la apertura de aplicaciones y el procesamiento de datos. Los HDD son una mejor opción para aplicaciones que requieren mucho almacenamiento, como la edición de vídeo o la creación de archivos grandes.
 
+---
+
 ## Herramientas de Borrado Seguro
 
 - [Eraser](https://eraser.heidi.ie/): Eraser es una herramienta gratuita y de código abierto que permite borrar de manera segura los datos de un disco duro. Incluye varios algoritmos de borrado diferentes, entre ellos el algoritmo DoD 5220.22-M, que es el estándar de seguridad del Departamento de Defensa de los Estados Unidos.
@@ -147,6 +163,8 @@ En términos de uso, los SSD son una mejor opción para aplicaciones que requier
 - [Disk Wipe](https://www.diskwipe.org/): Disk Wipe es otra herramienta gratuita que permite borrar de manera segura los datos de un disco duro. Incluye varios algoritmos de borrado diferentes, incluyendo el algoritmo Peter Gutmann, considerado como el método más seguro para borrar datos.
 
 - [DBAN (Darik's Boot and Nuke)](https://dban.org/): DBAN es una herramienta gratuita que permite borrar de manera segura los datos de un disco duro, una unidad flash USB o una tarjeta SD.
+
+---
 
 # Licencia
 Este proyecto está bajo la licencia [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Puedes compartir, adaptar y utilizar estos archivos siempre que des el crédito correspondiente al autor original.
