@@ -109,6 +109,16 @@ Si todos los demás métodos han fallado, es posible que tengas que formatear el
 
 El formateo profundo, también conocido como formateo de bajo nivel, es un proceso que borra todos los datos de un disco duro y reconfigura su estructura física. Esto puede ser útil para reparar un disco duro dañado, o para borrar datos confidenciales de manera segura.
 
+El formateo de bajo nivel se realiza en el nivel más bajo del disco duro, el nivel físico. Esto significa que el formateo afecta a la estructura física del disco, no solo a los datos almacenados en él.
+
+#### Niveles de Formateo
+
+- **Formateo de Alto Nivel:**
+  Este tipo de formateo se realiza en el nivel más alto del disco duro, el nivel lógico. El formateo de alto nivel crea un sistema de archivos en el disco duro, lo que permite almacenar datos.
+
+- **Formateo de Bajo Nivel:**
+  Este tipo de formateo se realiza en el nivel más bajo del disco duro, el nivel físico. El formateo de bajo nivel crea la estructura física del disco duro, incluyendo los sectores, las pistas y los sectores de arranque.
+
 #### Herramientas para formatear a bajo nivel un disco duro 
 
 - [HDD Low Level Format Tool](https://hddguru.com/software/HDD-LLF-Low-Level-Format-Tool/): HDD Low Level Format Tool es una aplicación especializada para realizar formateos de bajo nivel en discos duros. Es útil para borrar completamente los datos y configurar la estructura física del disco.
