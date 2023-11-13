@@ -120,6 +120,14 @@ El formateo profundo, también conocido como formateo de bajo nivel, es un proce
 
 En términos de uso, los SSD son una mejor opción para aplicaciones que requieren un rendimiento rápido, como el arranque del sistema operativo, la apertura de aplicaciones y el procesamiento de datos. Los HDD son una mejor opción para aplicaciones que requieren mucho almacenamiento, como la edición de vídeo o la creación de archivos grandes.
 
+## Herramientas de Borrado Seguro
+
+- [Eraser](https://eraser.heidi.ie/): Eraser es una herramienta gratuita y de código abierto que permite borrar de manera segura los datos de un disco duro. Incluye varios algoritmos de borrado diferentes, entre ellos el algoritmo DoD 5220.22-M, que es el estándar de seguridad del Departamento de Defensa de los Estados Unidos.
+
+- [Disk Wipe](https://www.diskwipe.org/): Disk Wipe es otra herramienta gratuita que permite borrar de manera segura los datos de un disco duro. Incluye varios algoritmos de borrado diferentes, incluyendo el algoritmo Peter Gutmann, considerado como el método más seguro para borrar datos.
+
+- [DBAN (Darik's Boot and Nuke)](https://dban.org/): DBAN es una herramienta gratuita que permite borrar de manera segura los datos de un disco duro, una unidad flash USB o una tarjeta SD.
+
 # Licencia
 Este proyecto está bajo la licencia [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Puedes compartir, adaptar y utilizar estos archivos siempre que des el crédito correspondiente al autor original.
 
