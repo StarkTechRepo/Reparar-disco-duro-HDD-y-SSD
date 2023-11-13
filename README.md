@@ -89,6 +89,22 @@ El formateo profundo, también conocido como formateo de bajo nivel, es un proce
 - No formatees seguido, ya que se pierde tamaño de uso al hacerlo.
 - Realiza un formateo cada 6 meses si es un disco muy activo, si no cada 1 año.
 
+## Diferencias entre un HDD y un SSD para el uso
+
+- **Velocidad:** Los SSD son mucho más rápidos que los HDD en las operaciones de lectura y escritura, tanto secuencial como aleatoria. Esto se debe a que los SSD no tienen partes móviles, lo que les permite acceder a los datos de forma instantánea.
+
+- **Ruido:** Los HDD son más ruidosos que los SSD, ya que tienen partes móviles que giran a alta velocidad.
+
+- **Vibración:** Los HDD son más propensos a la vibración que los SSD, ya que las partes móviles pueden verse afectadas por las vibraciones externas.
+
+- **Resistencia a los golpes:** Los SSD son más resistentes a los golpes que los HDD, ya que no tienen partes móviles.
+
+- **Consumo de energía:** Los SSD consumen menos energía que los HDD, lo que puede ayudar a prolongar la vida útil de la batería de un portátil.
+
+- **Precio:** Los SSD suelen ser más caros que los HDD, pero su precio ha ido bajando en los últimos años.
+
+En términos de uso, los SSD son una mejor opción para aplicaciones que requieren un rendimiento rápido, como el arranque del sistema operativo, la apertura de aplicaciones y el procesamiento de datos. Los HDD son una mejor opción para aplicaciones que requieren mucho almacenamiento, como la edición de vídeo o la creación de archivos grandes.
+
 # Licencia
 Este proyecto está bajo la licencia [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Puedes compartir, adaptar y utilizar estos archivos siempre que des el crédito correspondiente al autor original.
 
