@@ -132,7 +132,7 @@ El formateo profundo, también conocido como formateo de bajo nivel, es un proce
 - Evita que tu disco duro se caiga o se golpee.
 - No expongas tu disco duro a altas temperaturas o humedad.
 - Realiza copias de seguridad de tus datos con regularidad, no en el mismo disco duro.
-- Realiza análisis seguidos, recomendación cada 6 meses si es un disco muy activo, si no cada 3 meses.
+- Realiza análisis seguidos, recomendación cada 3 meses si es un disco muy activo, si no cada 6 meses.
 - No formatees seguido, ya que se pierde tamaño de uso al hacerlo.
 - Realiza un formateo cada 6 meses si es un disco muy activo, si no cada 1 año.
 
